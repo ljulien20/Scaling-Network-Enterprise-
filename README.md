@@ -33,11 +33,11 @@ ISP gave out a base network of 192.168.1.0
 
 <p align="center">
 Establish placement of devices for this network: <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447331431809417296/Screenshot_2025-12-07_145124.png?ex=693f24ef&is=693dd36f&hm=d3f371176c4253190475df4ab5771bd158a22bb998283b96b300cf42014debbc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447331431809417296/Screenshot_2025-12-07_145124.png?ex=694c53ef&is=694b026f&hm=fb92d00f8fbd041932fcfea394030f18bc214b5d12b9d85af695239030c6040f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configured network access for the switch to the ADMIN/IT department and configured a VLAN for the department as well. The same is repeated for the other 2 departments:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447350586994462970/Screenshot_2025-12-07_161011.png?ex=693f36c6&is=693de546&hm=fc6da7ed5968e2c3e0f8165564a236ad9afc26de97a923613fe2b41af6576ff0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447350586994462970/Screenshot_2025-12-07_161011.png?ex=694c65c6&is=694b1446&hm=f4a706d7a09700d1562d99eebd0966ebce8ca853b889cd7cdac2db11b3de26aa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 All ethernet connections are connected to VLAN 10,20,30 as shown: <br/>
