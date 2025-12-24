@@ -64,24 +64,24 @@ Sub-interfaces were created for all departments. :  <br/>
 <img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447365701143888054/Screenshot_2025-12-07_171313.png?ex=693f44d9&is=693df359&hm=e6b3f9b58e09708fe630327a3bb6d35a08a2c1c1a47912cfca9bcbf19f34451b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 DHCP service was activated, and an IP pool and DNS was created for the Admin department. The other 2 departments will be the same:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447367590166007858/Screenshot_2025-12-07_171958.png?ex=693f469c&is=693df51c&hm=7f3e7f2f788e3df1afd822634aa4fd1b13eaba5184a093072bd1ab78737e2fa9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447367590166007858/Screenshot_2025-12-07_171958.png?ex=694c759c&is=694b241c&hm=0b9cbdab0aba13e6175c1e88c6b4a743fd9373cf8dcf2099f2d372053fe39223" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 DHCP pools and networks were created for all departments where ip addresses should be automatically be given to each devices once DHCP is turned on:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447369945309516059/Screenshot_2025-12-07_172855.png?ex=69409a4d&is=693f48cd&hm=081d49c339b06eedba3f5c4c29af9eeabd464f499f7ccfdd931f58734d9a073b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447369945309516059/Screenshot_2025-12-07_172855.png?ex=694c77cd&is=694b264d&hm=e95eec84b980067a5bc168e1023bd42eea7d588834615073be2d5cb72b814a76" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br/>
 Successful connection to DHCP for PC1:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447370352249405560/Screenshot_2025-12-07_173229.png?ex=69409aae&is=693f492e&hm=60dad3fb1a8273dbf8d8ee596b6914efc650facdca351266af9072cf9938ef76" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447370352249405560/Screenshot_2025-12-07_173229.png?ex=694c782e&is=694b26ae&hm=21ce0dcf25fb6d646f0d7a15511ddfbf33225e67845ff7488e64b6924b88f052" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br/>
 Both wireless devices were also configured to connect to the WAP in admin department:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447374379859050496/Screenshot_2025-12-07_174418.png?ex=69409e6f&is=693f4cef&hm=354c8a4c63629a688354486348e86f04b454fd77ece950deac699895e414a4d9&" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447374380211376209/Screenshot_2025-12-07_174744.png?ex=69409e6f&is=693f4cef&hm=6fa9bf0c8780849c965f13c9306e084ad005b3d36cb042048442a26cf2a478e0&" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447374379859050496/Screenshot_2025-12-07_174418.png?ex=694c7bef&is=694b2a6f&hm=8e972fc13525ed0d767d2b12701cbf178160326a503d770dbf300325931db1da&" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447374380211376209/Screenshot_2025-12-07_174744.png?ex=694c7bef&is=694b2a6f&hm=7b672d4f8aaeed77b705699f5706d883b87f4552bfcc1aec4c3b3b4880e55266&" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br/>
 Before finalizing the project, I used the command prompt to ping the smartphone in the Admin/IT department to CS/Reception PC2, and it was successful with sending 4 packets, receiving 3, and only losing 1, which only puts it at a 25% lost:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447370352249405560/Screenshot_2025-12-07_173229.png?ex=69409aae&is=693f492e&hm=60dad3fb1a8273dbf8d8ee596b6914efc650facdca351266af9072cf9938ef76" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447377847525314700/Screenshot_2025-12-07_175931.png?ex=694c7f29&is=694b2da9&hm=ccee847545eaaf6b17b412b6140340768753fe9468c750fd13f0d2583fd5f48c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 </p>
 
