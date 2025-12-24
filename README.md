@@ -54,7 +54,7 @@ Configured switch into trunk before configuring router:  <br/>
 <br />
 Router is now configed, as you can see by  the green arrows that are on the ethernet cable. Ip addresses will be issued next and create sub sub-interface. 
 :  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447358648459202743/Screenshot_2025-12-07_164509.png?ex=693f3e48&is=693decc8&hm=1f578099b7cf397f70d82bfe4801e8938366461b510d8cf0d56e0c1aa32ce8d6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447358648459202743/Screenshot_2025-12-07_164509.png?ex=694c6d48&is=694b1bc8&hm=dcc9bb01547ca037f5b8ba397c70febc3fecbe6c4c918fb745a50157ccd419c1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 I assigned a static IP address range here in the router to receive traffic, subnet mask is assigned as well for each department:  <br/>
 <img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445256985133187072/Screenshot_2025-12-01_213317.png?ex=693ed934&is=693d87b4&hm=5f0595a2494f0fc22670ce7619b5d8f6cd92d349a12ea83eced7f790bae32894" height="80%" width="80%" alt="Disk Sanitization Steps"/>
