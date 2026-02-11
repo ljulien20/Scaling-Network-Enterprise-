@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Here I am establishing a network for a company that is growing fast in Texas, with more than 2 million customers nationwide. The company deals with selling and buying food items, which are basically operated from the headquarters. The company wants to open a branch in Austin, TX, pretty soon, and requires me to design the network for the branch. The network is intended to operate separately from the HQ network. With the base IP being a class C address, the subnet will  be 255.255.255.0.
+Here I am establishing a network for a company that is growing fast in Louisiana, with more than 2 million customers nationwide. The company deals with selling and buying food items, which are basically operated from the headquarters. The company wants to open a branch in Baton Rouge, LA, pretty soon, and requires me to design the network for the branch. The network is intended to operate separately from the HQ network. With the base IP being a class C address, the subnet will  be 255.255.255.0.
 
 1.) one router and one switch to be used (all Cisco products)    
 
@@ -33,23 +33,23 @@ ISP gave out a base network of 192.168.1.0
 
 <p align="center">
 Establish placement of devices for this network: <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447331431809417296/Screenshot_2025-12-07_145124.png?ex=696954ef&is=6968036f&hm=6766368b9f775425091bec0348eba3bd785ec6714b6ed75b86d8abbfaaa710bb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2546" height="1277" alt="Screenshot 2025-12-07 145124" src="https://github.com/user-attachments/assets/82ac7b8d-284f-42f9-89e9-49debbf7d5fb" />
 <br />
 <br />
 Configured network access for the switch to the ADMIN/IT department and configured a VLAN for the department as well. The same is repeated for the other 2 departments:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447350586994462970/Screenshot_2025-12-07_161011.png?ex=696966c6&is=69681546&hm=d937e03db0857a599643724ae5ca86b4e834f87ceae3277b1f6882aceb6efdbe" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1238" height="659" alt="Screenshot 2025-12-07 161011" src="https://github.com/user-attachments/assets/b3911aba-9f8c-45c9-9af2-c303e4b45fc9" />
 <br />
 <br />
 All ethernet connections are connected to VLAN 10,20,30 as shown: <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447352842280112250/Screenshot_2025-12-07_162312.png?ex=696968e0&is=69681760&hm=1227f6dcb3211c3af530a96c219137a946e79480bfc93c08727e2119845a1222" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2535" height="1230" alt="Screenshot 2025-12-07 162126" src="https://github.com/user-attachments/assets/0534bb19-c359-404d-b6ca-f257bc8b1f52" />
 <br />
 <br />
-configured access port for WAP (ADMIN/IT) changing SSID and authentication is set to WPA2-PSK:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447354310584434768/Screenshot_2025-12-07_162718.png?ex=69696a3e&is=696818be&hm=c6645495e89c12071772b885e7ec761aeda410c534e33c93ab10cb8492759570" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+configured access port for WAP (ADMIN/IT), changing SSID and authentication is set to WPA2-PSK:  <br/>
+<img width="2198" height="1038" alt="Screenshot 2025-12-07 162718" src="https://github.com/user-attachments/assets/2a730895-f417-4203-9211-5a5532c80b4e" />
 <br />
 <br />
 Configured switch into trunk before configuring router:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447357630736502885/Screenshot_2025-12-07_164054.png?ex=69696d55&is=69681bd5&hm=a12d5ceda0b83f2357ca2d52601e95dc5b16d85221c6df3f7248b0fdbea38377" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2031" height="1005" alt="Screenshot 2025-12-07 164054" src="https://github.com/user-attachments/assets/68834419-ba27-4ed0-8420-f9a547b0553e" />
 <br />
 <br />
 Router is now configed, as you can see by  the green arrows that are on the ethernet cable. Ip addresses will be issued next and create sub sub-interface. 
