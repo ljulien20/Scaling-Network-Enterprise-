@@ -56,8 +56,6 @@ Router is now configed, as you can see by  the green arrows that are on the ethe
 :  <br/>
 <img width="2096" height="985" alt="Screenshot 2025-12-07 164509" src="https://github.com/user-attachments/assets/c2362c74-b7f3-4b7f-916f-658b4932efb9" />
 <br/>
-I assigned a static IP address range here in the router to receive traffic, subnet mask is assigned as well for each department:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445256985133187072/Screenshot_2025-12-01_213317.png?ex=693ed934&is=693d87b4&hm=5f0595a2494f0fc22670ce7619b5d8f6cd92d349a12ea83eced7f790bae32894" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br />
 Sub-interfaces were created for all departments. :  <br/>
