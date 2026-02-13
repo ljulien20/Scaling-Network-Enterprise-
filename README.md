@@ -54,34 +54,34 @@ Configured switch into trunk before configuring router:  <br/>
 <br />
 Router is now configed, as you can see by  the green arrows that are on the ethernet cable. Ip addresses will be issued next and create sub sub-interface. 
 :  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447358648459202743/Screenshot_2025-12-07_164509.png?ex=69696e48&is=69681cc8&hm=cf94d23aeb374cc45e9e0c71a8aab1a067c765372740561ecd91ee5616f93468" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2096" height="985" alt="Screenshot 2025-12-07 164509" src="https://github.com/user-attachments/assets/c2362c74-b7f3-4b7f-916f-658b4932efb9" />
 <br/>
 I assigned a static IP address range here in the router to receive traffic, subnet mask is assigned as well for each department:  <br/>
 <img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445256985133187072/Screenshot_2025-12-01_213317.png?ex=693ed934&is=693d87b4&hm=5f0595a2494f0fc22670ce7619b5d8f6cd92d349a12ea83eced7f790bae32894" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br />
 Sub-interfaces were created for all departments. :  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447365701143888054/Screenshot_2025-12-07_171313.png?ex=693f44d9&is=693df359&hm=e6b3f9b58e09708fe630327a3bb6d35a08a2c1c1a47912cfca9bcbf19f34451b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2126" height="1061" alt="Screenshot 2025-12-07 171313" src="https://github.com/user-attachments/assets/d2225a4e-43e5-4cf9-b0e7-bb266a7e1e3b" />
 <br />
 DHCP service was activated, and an IP pool and DNS was created for the Admin department. The other 2 departments will be the same:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447367590166007858/Screenshot_2025-12-07_171958.png?ex=6969769c&is=6968251c&hm=a5fd1da2d6356c1ec7107d7c0fa313a0debef83863c5153500de32c775010c60" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2036" height="951" alt="Screenshot 2025-12-07 171958" src="https://github.com/user-attachments/assets/2d2e7c77-3172-4f1b-8f3a-b9f6a084fde8" />
 <br />
 <br/>
 DHCP pools and networks were created for all departments where ip addresses should be automatically be given to each devices once DHCP is turned on:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447369945309516059/Screenshot_2025-12-07_172855.png?ex=696978cd&is=6968274d&hm=1defc3c01fcbe085b90973ffc2b8adb1cfac99ca481557ac17363bc12222761f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2000" height="950" alt="Screenshot 2025-12-07 172855" src="https://github.com/user-attachments/assets/e2fb4385-8b7c-448d-b468-7ab9d317bf97" />
 <br /> 
 <br/>
 Successful connection to DHCP for PC1:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447370352249405560/Screenshot_2025-12-07_173229.png?ex=6969792e&is=696827ae&hm=116b26e1324093da5337142a19f10217589bfeeb8c6fe070db199d6707fee02d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1578" height="849" alt="Screenshot 2025-12-07 173229" src="https://github.com/user-attachments/assets/6371474c-6c4b-4b88-9349-704b2549501e" />
 <br /> 
 <br/>
-Both wireless devices were also configured to connect to the WAP in adm.in department:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447374379859050496/Screenshot_2025-12-07_174418.png?ex=69697cef&is=69682b6f&hm=7f1e8689a3a2f5b5a6d1b535f70a64c9cd867dd3e228b82c529e1c0e06d8f405&" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447374380211376209/Screenshot_2025-12-07_174744.png?ex=69697cef&is=69682b6f&hm=e00726a038411974f54a819a7efad01fba65981a5931e8ca865d9150fff14c44&" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Both wireless devices were also configured to connect to the WAP in the admin department:  <br/>
+<img width="1749" height="923" alt="Screenshot 2025-12-07 173907" src="https://github.com/user-attachments/assets/b06c5ab9-753e-4a0b-b155-34fa35c53716" />
+<img width="1680" height="875" alt="Screenshot 2025-12-07 174744" src="https://github.com/user-attachments/assets/dcdbcb26-7ce9-4988-baf8-b4258bb7fecb" />
 <br /> 
 <br/>
 Before finalizing the project, I used the command prompt to ping the smartphone in the Admin/IT department to CS/Reception PC2, and it was successful with sending 4 packets, receiving 3, and only losing 1, which only puts it at a 25% lost:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1447377847525314700/Screenshot_2025-12-07_175931.png?ex=69698029&is=69682ea9&hm=019b6e1c3dcb106c9d4efac1736b34254a75c5f3bea737dd67aae7a73b439161" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1787" height="1003" alt="Screenshot 2025-12-07 175931" src="https://github.com/user-attachments/assets/e9c2196c-6ece-4af4-9643-0c7e2241ac00" />
 <br /> 
 </p>
 
